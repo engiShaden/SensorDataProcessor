@@ -2,8 +2,7 @@
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 // to try this code i put main to run and make To make sure that the code works Nouf 
-
-
+//Fivth commit 
 
 public class SensorDataProcessor {
             // Senson data and limits.
@@ -14,6 +13,7 @@ public class SensorDataProcessor {
         this.data = data;
         this.limit = limit;
     }
+    
     // calculates average of sensor data
     private double average(double[] array) {
         int i = 0;
